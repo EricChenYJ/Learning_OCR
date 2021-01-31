@@ -1,2 +1,7 @@
 # Learning_OCR
-object detection and recognition
+
+## object detection
+https://github.com/HCIILAB/Scene-Text-Detection
+
+
+## object recognition
